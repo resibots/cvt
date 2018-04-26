@@ -1,0 +1,6 @@
+*.pyc
+*.dat
+build/*
+.lock*
+.waf*
+.vscode
